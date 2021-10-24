@@ -4,10 +4,10 @@
 ![release - v2.3](https://img.shields.io/static/v1?label=release&message=v2.3&color=blue) ![version - stable](https://img.shields.io/static/v1?label=version&message=stable&color=red) ![License](https://img.shields.io/badge/License-GNU-yellow)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/gamekdonate)
 
-### Description
+## Description
 DownPaper, or Download Wallpaper is a software that facilitates the downloading of Steam workshop wallpapers for Wallpaper Engine. The latter is only useful for people who have the crack version of Wallpaper Engine.
 
-### Executable Version
+## Executable Version
 
 DownPaper (mega.nz): **https://mega.nz/file/zlgmyYAL#qi5p6r9qbSCTNtLZQlKMrXmLb1g4Ng7J0HiCuucIfWs**
 
