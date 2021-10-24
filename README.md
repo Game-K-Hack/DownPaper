@@ -41,7 +41,7 @@ If you have pressed the green **DownPaper** button, the program will download th
 
 ## Python Version
 
-#### Install
+### Install
 
 ```console
 # clone the repo
@@ -55,7 +55,7 @@ $ python3 -m pip install -r requirements.txt
 ```
 <br>
 
-#### Usage
+### Usage
 
 At the first launch the software will ask you where to install Wallpaper Engine. Once the path is entered, you can click on the **Treminé** button and it will create a `conf.ini` file with the path to the software in `C:\Users\%USERNAME%\AppData\Roaming\Game_K\DownPaper`.
 
