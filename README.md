@@ -77,9 +77,9 @@ If you have pressed the green **DownPaper** button, the program will download th
 
 ## Operation
 
-> Search **id** in url
-> Search **info** with **id**
-> Search **zip file** on **steamworkshopdownloader.io**
-> **Extract** and **rename** the **Zip file**
-> Move the **folder rename** in **folder of Wallpaper Engine**
-> Restart the software (**Wallpaper Engine**)
+1) Search **id** in url
+2) Search **info** with **id**
+3) Search **zip file** on **steamworkshopdownloader.io**
+4) **Extract** and **rename** the **Zip file**
+5) Move the **folder rename** in **folder of Wallpaper Engine**
+6) Restart the software (**Wallpaper Engine**)
