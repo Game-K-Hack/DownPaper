@@ -11,7 +11,7 @@ DownPaper, or Download Wallpaper is a software that facilitates the downloading 
 
 DownPaper (mega.nz): **https://mega.nz/file/zlgmyYAL#qi5p6r9qbSCTNtLZQlKMrXmLb1g4Ng7J0HiCuucIfWs**
 
-At the first launch the software will ask you where to install Wallpaper Engine. Once the path is entered, you can click on the **Treminé** button and it will create a `conf.ini` file with the path to the software in `C:\Users\%USERNAME%\AppData\Roaming\Game_K\DownPaper`.
+At the first launch the software will ask you where to install Wallpaper Engine. Once the path is entered, you can click on the **Terminé** button and it will create a `conf.ini` file with the path to the software in `C:\Users\%USERNAME%\AppData\Roaming\Game_K\DownPaper`.
 
 ![](https://cdn.discordapp.com/attachments/879074487071539280/901850719764754472/unknown.png)
 
