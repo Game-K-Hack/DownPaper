@@ -28,7 +28,9 @@ Once the software starts it opens two windows. One is the program's console to b
 > Program console 
 
 <br>
+
 ![](https://cdn.discordapp.com/attachments/879074487071539280/901844269613064202/unknown.png)
+
 > Browsers
 
 <br>
